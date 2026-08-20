@@ -1,1 +1,1 @@
-# 18771_test
+This is test repository for education purposes
